@@ -15,7 +15,7 @@ export function Buton() {
         }}
         style={styles.StyleButon}
       >
-        <Text style={styles.textButon}>Click aqui</Text>
+        <Text style={styles.textButon}>Acesse</Text>
        
       </Pressable>
     </View>
